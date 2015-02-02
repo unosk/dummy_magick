@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = DummyMagick::VERSION
   spec.authors       = ['unosk']
   spec.email         = ['unosk.s@gmail.com']
-  spec.summary       = 'TODO: Write a short summary. Required.'
-  spec.description   = 'TODO: Write a longer description. Optional.'
-  spec.homepage      = ''
+  spec.summary       = 'Generate a dummy image file for development'
+  spec.description   = 'Generate a dummy image file for development'
+  spec.homepage      = 'https://github.com/unosk/dummy_magick'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
