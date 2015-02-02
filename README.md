@@ -2,6 +2,8 @@
 
 Generate a dummy image file for development
 
+[![Build Status](https://travis-ci.org/unosk/dummy_magick.svg?branch=master)](https://travis-ci.org/unosk/dummy_magick)
+
 ## Installation
 
 Add this line to your application's Gemfile:
